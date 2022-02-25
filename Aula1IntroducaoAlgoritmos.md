@@ -2,8 +2,6 @@ Conteúdo da aula
 
 Livro do Manzano
 
-
-
 Algoritmo
 
 O que é algoritmo?
