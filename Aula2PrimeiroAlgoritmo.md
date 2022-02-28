@@ -1,5 +1,3 @@
-Dia 20 do ano de 2022
-
 #Aula 2 - 20/02/2022
 
 Link da aula

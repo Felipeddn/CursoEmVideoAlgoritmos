@@ -12,7 +12,7 @@ inicio
 //Escreva ("Me livrei da maldição!")
 
 //Repetindo o exemplo acima usando variáveis
-msg <- "Olá, mundo"
+msg <- "Olá, mundo!"
 Escreval ("Mensagem: ", msg)
 
 
