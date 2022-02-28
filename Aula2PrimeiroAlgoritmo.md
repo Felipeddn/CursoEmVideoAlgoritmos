@@ -11,7 +11,7 @@ Algoritmo é a descrição passo a passo de uma rotina e ,seguindo esses passos 
 
 O professor Gustavo Guanabara definiu algoritmos computacionais da seguinte forma:
  
-"São passos a serem seguidos por um **módulo processador** e seus respectivos **usuários** que, quando executados na ordem correta, coseguem **realizar** determinada **tarefa**".
+"São passos a serem seguidos por um **módulo processador** e seus respectivos **usuários** que, quando executados na ordem correta, conseguem **realizar** determinada **tarefa**".
 
 Exemplos de algoritmos computacionais
 
