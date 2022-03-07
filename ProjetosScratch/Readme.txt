@@ -1,0 +1,1 @@
+Esses são projetos do aplicativo Scratch procure no site do curso em video pelo curso de algoritmo e após a aula 1 tem arquivos para serem baixados o scratch é um desses aplicativos eu baixei através desse link https://scratch.mit.edu/scratch_1.4/
