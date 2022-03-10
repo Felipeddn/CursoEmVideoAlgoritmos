@@ -56,28 +56,28 @@ existem 3 tipos de operadores lógicos no visualg:
 
 quando comparamos esse valores eles retornam os seguintes resultados:
 
-premissa1 <- verdadeiro
-premissa2 <- falso
+premissa1 <- verdadeiro  
+premissa2 <- falso   
 
 Usando o operador lógico **E**:
 
-premissa1 **E** premissa1 = **verdadeiro**
-premissa1 **E** premissa2 = **falso**
-premissa2 **E** premissa1 = **falso**
-premissa2 **E** premissa2 = **falso**
+premissa1 **E** premissa1 = **verdadeiro**   
+premissa1 **E** premissa2 = **falso**   
+premissa2 **E** premissa1 = **falso**   
+premissa2 **E** premissa2 = **falso**   
 
 Usando o operador lógico **OU**:
 
-premissa1 **OU** premissa1 = **verdadeiro**
-premissa1 **OU** premissa2 = **verdadeiro**
-premissa2 **OU** premissa1 = **verdadeiro**
-premissa2 **OU** premissa2 = **falso**
+premissa1 **OU** premissa1 = **verdadeiro**   
+premissa1 **OU** premissa2 = **verdadeiro**   
+premissa2 **OU** premissa1 = **verdadeiro**   
+premissa2 **OU** premissa2 = **falso**   
 
 Esse github pilot é fantástico, que lindeza, que delicia, que alegria, programar com ele.
 
 Usando o operador lógico **NÃO**:	
 
-**NÃO** premissa1 = **falso**
+**NÃO** premissa1 = **falso**   
 **NÃO** premissa2 = **verdadeiro**
 
 Esses exemplos acima estão representados em um exemplo prático no visualg e pode ser encontrado no diretório (pasta) "CódigosDasAulas", basta baixa-los ou copiar esses códigos no visualg e executá-los.
