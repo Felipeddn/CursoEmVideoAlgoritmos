@@ -10,12 +10,12 @@ Operadores relacionais sempre geram como resultado um valor **lógico**, isso é
 
 O operadores relacionais no visualg são:
 
-'>' maior que
-'<' menor que
-'>=' maior ou igual
-'<=' menor ou igual
-'=' igual a
-'<>' diferente de
+'>' maior que   
+'<' menor que   
+'>=' maior ou igual   
+'<=' menor ou igual   
+'=' igual a   
+'<>' diferente de  
 
 em outras linguagens de programação esses representações podem ser diferentes, sempre consulte a documentação da linguagem de programação que você está estudando para saber quais são eles.
 
@@ -25,22 +25,22 @@ Compare valores numéricos com os operadores relacionais
 
 nos exemplos atribuimos os valores a variáveis e comparamos essas variaveis para verificar qual foi resultado da comparação usando os operadores relacionais.
 
-atribuimos os seguintes valores a variaveis:
-numero1 <- 2
-numero2 <- 3
-numero3 <- 5
+atribuimos os seguintes valores a variaveis:   
+numero1 <- 2   
+numero2 <- 3   
+numero3 <- 5   
 
 e fizemos as seguintes perguntas com as seguintes respostas:
 
-numero1 > numero2 ? **falso**
-numero1 = numero2 ? **falso**
-numero1 <> numero2 ? **verdadeiro**
-numero1 > numero2 > **falso**
-numero1 >= numero2 ? **verdadeiro**
-numero3 = numero2 + numero1 ? **verdadeiro**
-numero3 >= numero2 ^ numero1 ? **falso**
-numero2 <= numero3 % 2 ? **falso**
-numero3 % 2 = 1 ? **verdadeiro**
+numero1 > numero2 ? **falso**   
+numero1 = numero2 ? **falso**   
+numero1 <> numero2 ? **verdadeiro**   
+numero1 > numero2 > **falso**   
+numero1 >= numero2 ? **verdadeiro**   
+numero3 = numero2 + numero1 ? **verdadeiro**   
+numero3 >= numero2 ^ numero1 ? **falso**   
+numero2 <= numero3 % 2 ? **falso**   
+numero3 % 2 = 1 ? **verdadeiro**   
 
 esses exemplos tem seus códigos no diretório (pasta) "CódigosDasAulas", basta baixa-los ou copiar esses códigos no visualg e executá-los.
 
