@@ -7,7 +7,7 @@ var
 inicio
       Escreval("Em que ano nós estamos? ")
       Leia(ano_atual)
-      Escreval("Em que ano a Creuza nasceu")
+      Escreval("Em que ano a Creuza nasceu?")
       Leia(ano_nascimento)
       idade <- ano_atual - ano_nascimento)
       Escreval("Minha idade será ", idade, " anos.")
