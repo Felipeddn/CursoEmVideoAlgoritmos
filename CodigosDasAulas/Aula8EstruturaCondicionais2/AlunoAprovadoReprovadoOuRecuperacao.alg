@@ -1,7 +1,7 @@
-algoritmo "Aluno aprovado ou reprovado"
-// Função : informa se um aluno foi aprovado na série
+algoritmo "Aluno aprovado, reprovado ou em recuperação"
+// Função : informa se um aluno foi aprovado, reprovado ou está de recuperação na série
 // Autor : Gustavo Guanabara
-// Data : 18/03/2022
+// Data : 20/03/2022
 var
    nota1, nota2, media: real
 inicio
@@ -19,7 +19,12 @@ inicio
          Escreval("ALUNO APROVADO")
          Escreval("-----------------------")
       Senao
-           Escreval("ALUNO REPROVADO")
-           Escreval("-----------------------")
+           Se(media >= 5) e (media < 7) entao
+                    Escreval("ALUNO EM RECUPERAÇÃO")
+                    Escreval("-----------------------")
+           Senao
+                Escreval("ALUNO REPROVADO")
+                Escreval("-----------------------")
+           Fimse
       Fimse
 fimalgoritmo
