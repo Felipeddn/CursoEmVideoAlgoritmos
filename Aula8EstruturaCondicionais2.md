@@ -6,27 +6,27 @@ link da aula https://www.youtube.com/watch?v=7gGFHzqh4d8
 
 ## Condicionais aninhadas
 
-Se (condição 1) então
-    bloco A
-Senao
-    Se (condição 2) então
-        bloco A
-    Senao
-        bloco B
-Fim se
+Se (condição 1) então  
+    bloco A  
+Senao  
+    Se (condição 2) então  
+        bloco A  
+    Senao  
+        bloco B  
+Fim se  
 
 ## Estruturas de escolha
 
-Escolha (variavel) 
-    Caso valor
-        Bloco A
-    Caso valor
-        Bloco B
+Escolha (variavel)   
     Caso valor  
-        Bloco C
-    OutroCaso
-        Bloco D
-Fimescolha
+        Bloco A  
+    Caso valor  
+        Bloco B  
+    Caso valor    
+        Bloco C  
+    OutroCaso  
+        Bloco D  
+Fimescolha  
 
 A estrutura escolha é mais simples que aninhar estruturas condicionais, porem ela ela não serve para comparar valores como se faz nas estruturas condicionais.
 
