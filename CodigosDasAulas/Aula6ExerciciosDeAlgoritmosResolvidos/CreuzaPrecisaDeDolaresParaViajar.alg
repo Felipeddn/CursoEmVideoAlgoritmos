@@ -1,4 +1,4 @@
-algoritmo "CreuzaPrecisaDeDolarParaViajar"
+algoritmo "Creuza Precisa De Dolar Para Viajar"
 // Função : Converte o valor de reais para dolares
 // Autor : Gustavo Guanabara
 // Data : 15/03/2022
