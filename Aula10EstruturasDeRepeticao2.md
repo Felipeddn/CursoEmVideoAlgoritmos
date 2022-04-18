@@ -1,4 +1,4 @@
-# Aula 10 - 27/03/2022 - 28/03/2022
+# Aula 10 - 27/03/2022 - 10/04/2022
 
 Nessa aula aprenderemos outra forma de fazer estruturas de repetição.
 
@@ -12,7 +12,7 @@ veja:
     comandos   
 **fim-enquanto**  
 
-Já a estrutura de repetição repita o teste lógico se apresenta no final do algoritmo.
+Já a estrutura de repetição repita, o teste lógico se apresenta no final do algoritmo.
 
 veja:
 
