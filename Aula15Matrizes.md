@@ -1,4 +1,4 @@
-# Aula 15 - 02/05/2022
+# Aula 15 - 02/05/2022 - 03/05/2022
 
 Nessa aula vamos trabalhar os conceitos de matrizes
 
@@ -12,4 +12,4 @@ O conceito das variaveis do tipo matriz expande nosso conhecimento sobre a forma
 
 Importante observar que armazenar valores e resgatar valores nessas matrizes usa o conceito de indice mas com mais de um valores para isso.
 
-
+Finalmente posso dizer que terminei o curso de lógica de programação porque fiz todos os exercicios agora eu sinto que é oficial eu sei lógica de programação, pelo menos o básico.
